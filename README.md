@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2 align="center"> serkVSC / João Pereira<br/> </h2> 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serkVSC&theme=github_dark&show_icons=true)
 
 <!--
