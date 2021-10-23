@@ -1,7 +1,7 @@
 <h2 align="center"> serkVSC / João Pereira<br/> </h2> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serkVSC&theme=github_dark&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serkVSC&layout=compact&theme=github_dark&show_icons=true&hide_border=true)
 <!--
 **serkVSC/serkVSC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
