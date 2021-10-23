@@ -1,5 +1,5 @@
 <h2 align="center"> serkVSC / João Pereira<br/> </h2> 
-
+<h2 align="center" href="https://linktr.ee/serkVSC"> Links úteis<br/> </h2> 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serkVSC&theme=github_dark&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serkVSC&layout=compact&theme=github_dark&show_icons=true&hide_border=true)
 <!--
